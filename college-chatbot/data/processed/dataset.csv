@@ -1,0 +1,11 @@
+id,text,label
+1,"Hello, how can I help you today?", "greeting"
+2,"What courses are available this semester?", "course_inquiry"
+3,"Can you tell me about the scholarship options?", "scholarship_inquiry"
+4,"What is the deadline for application submissions?", "application_deadline"
+5,"How can I contact the admissions office?", "contact_info"
+6,"What are the tuition fees for this program?", "tuition_inquiry"
+7,"Is there a campus tour available?", "campus_tour"
+8,"What are the library hours?", "library_info"
+9,"Can you help me with my course registration?", "registration_help"
+10,"What extracurricular activities are offered?", "extracurricular_info"
